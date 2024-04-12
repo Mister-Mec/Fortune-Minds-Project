@@ -10,5 +10,8 @@
         </element>
         <element label=" Languages known" max_length="4000" name="languages_known" type="glide_list"/>
         <element label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element choice="1" label="Married" max_length="40" name="married" type="choice">
+            <choice/>
+        </element>
     </element>
 </database>

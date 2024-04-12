@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6566fda493d142102dbcf1ccebba10f1" label="Employee" max_length="40" name="x_1329796_expense_employee" type="collection">
+        <element label="Employee ID" max_length="40" name="employee_id" type="string"/>
+        <element label="First Name" max_length="40" name="first_name" type="string"/>
+        <element choice="1" label="Gender" max_length="40" name="gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Female" value="Female"/>
+                <element inactive_on_update="false" label="Male" value="Male"/>
+            </choice>
+        </element>
+        <element label=" Languages known" max_length="4000" name="languages_known" type="glide_list"/>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+    </element>
+</database>

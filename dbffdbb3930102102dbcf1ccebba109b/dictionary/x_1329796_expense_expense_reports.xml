@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="342063f3930102102dbcf1ccebba10e0" extends="task" label="Expense Reports" max_length="40" name="x_1329796_expense_expense_reports" type="collection"/>
+</database>

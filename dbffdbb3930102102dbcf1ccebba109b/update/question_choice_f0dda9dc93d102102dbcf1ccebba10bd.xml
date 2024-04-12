@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <misc>100</misc>
+        <order>400</order>
+        <published_ref/>
+        <question display_value="CPU Type">6f8d6590931502102dbcf1ccebba108f</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-28 10:25:06</sys_created_on>
+        <sys_id>f0dda9dc93d102102dbcf1ccebba10bd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Apple A13 Bionic</sys_name>
+        <sys_package display_value="Expense Reports" source="x_1329796_expense">dbffdbb3930102102dbcf1ccebba109b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense Reports">dbffdbb3930102102dbcf1ccebba109b</sys_scope>
+        <sys_update_name>question_choice_f0dda9dc93d102102dbcf1ccebba10bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-28 10:47:14</sys_updated_on>
+        <text>Apple A13 Bionic</text>
+        <value>4</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=f0dda9dc93d102102dbcf1ccebba10bd"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>100</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>f0dda9dc93d102102dbcf1ccebba10bd</id>
+        <parent/>
+        <reference_amount>100</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-28 10:47:14</sys_created_on>
+        <sys_id>de03b1d4931502102dbcf1ccebba10bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-28 10:47:14</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

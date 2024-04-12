@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bb89b1a893d142102dbcf1ccebba10d4" extends="sys_import_set_row" label="EmployeeData" max_length="40" name="x_1329796_expense_employeedata" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=EmployID" label="EmployID " max_length="40" name="u_employid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=First Name" label="First Name" max_length="40" name="u_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Gender" label="Gender" max_length="40" name="u_gender" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Languages known" label="Languages known " max_length="40" name="u_languages_known" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Last Name" label="Last Name" max_length="40" name="u_last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Timestamp" label="Timestamp" max_length="40" name="u_timestamp" type="string"/>
+    </element>
+</database>

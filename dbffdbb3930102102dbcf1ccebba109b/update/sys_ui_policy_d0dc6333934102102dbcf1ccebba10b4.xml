@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_1329796_expense_expense_reports">state!=51^EQ<item display_value="Open" endquery="false" field="state" goto="false" newquery="false" operator="!=" or="false" value="51"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+
+}]]></script_true>
+        <set_values/>
+        <short_description>Making feilds read only</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 06:23:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d0dc6333934102102dbcf1ccebba10b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Making feilds read only</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Expense Reports" source="x_1329796_expense">dbffdbb3930102102dbcf1ccebba109b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense Reports">dbffdbb3930102102dbcf1ccebba109b</sys_scope>
+        <sys_update_name>sys_ui_policy_d0dc6333934102102dbcf1ccebba10b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 06:23:37</sys_updated_on>
+        <table>x_1329796_expense_expense_reports</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

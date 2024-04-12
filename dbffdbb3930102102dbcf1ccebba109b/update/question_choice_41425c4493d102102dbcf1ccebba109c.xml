@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Ram Configuration">fe325c4493d102102dbcf1ccebba105a</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 09:06:56</sys_created_on>
+        <sys_id>41425c4493d102102dbcf1ccebba109c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4 GB</sys_name>
+        <sys_package display_value="Expense Reports" source="x_1329796_expense">dbffdbb3930102102dbcf1ccebba109b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense Reports">dbffdbb3930102102dbcf1ccebba109b</sys_scope>
+        <sys_update_name>question_choice_41425c4493d102102dbcf1ccebba109c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 09:06:56</sys_updated_on>
+        <text>4 GB</text>
+        <value>1</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=41425c4493d102102dbcf1ccebba109c"/>
+</record_update>

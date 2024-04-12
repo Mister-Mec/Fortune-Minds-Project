@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <misc>200</misc>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Ram Configuration">fe325c4493d102102dbcf1ccebba105a</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 09:07:04</sys_created_on>
+        <sys_id>ba729c4493d102102dbcf1ccebba10a5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>8 GB</sys_name>
+        <sys_package display_value="Expense Reports" source="x_1329796_expense">dbffdbb3930102102dbcf1ccebba109b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense Reports">dbffdbb3930102102dbcf1ccebba109b</sys_scope>
+        <sys_update_name>question_choice_ba729c4493d102102dbcf1ccebba10a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-28 10:44:25</sys_updated_on>
+        <text>8 GB</text>
+        <value>2</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=ba729c4493d102102dbcf1ccebba10a5"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>200</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>ba729c4493d102102dbcf1ccebba10a5</id>
+        <parent/>
+        <reference_amount>200</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-28 10:44:25</sys_created_on>
+        <sys_id>f0623590931502102dbcf1ccebba103c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-28 10:44:25</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

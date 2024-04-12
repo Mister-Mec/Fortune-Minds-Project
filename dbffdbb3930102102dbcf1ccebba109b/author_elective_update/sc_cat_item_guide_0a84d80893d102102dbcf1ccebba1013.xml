@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide">
+    <sc_cat_item_guide action="DELETE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <cascade>false</cascade>
+        <category/>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <include_items>true</include_items>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>ggj</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <order_to_cart>false</order_to_cart>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_guide_view.do?v=1&amp;sysparm_initial=true&amp;sysparm_guide=0a84d80893d102102dbcf1ccebba1013&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <request_method/>
+        <roles/>
+        <sc_catalogs/>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <script/>
+        <short_description/>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item_guide</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 09:16:06</sys_created_on>
+        <sys_id>0a84d80893d102102dbcf1ccebba1013</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ggj</sys_name>
+        <sys_package display_value="Expense Reports" source="x_1329796_expense">dbffdbb3930102102dbcf1ccebba109b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense Reports">dbffdbb3930102102dbcf1ccebba109b</sys_scope>
+        <sys_update_name>sc_cat_item_guide_0a84d80893d102102dbcf1ccebba1013</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 09:16:06</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <two_step>false</two_step>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <validator/>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_guide>
+    <sys_translated_text action="DELETE" query="documentkey=0a84d80893d102102dbcf1ccebba1013"/>
+    <fx_price action="DELETE" query="id=0a84d80893d102102dbcf1ccebba1013"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>0a84d80893d102102dbcf1ccebba1013</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 09:16:06</sys_created_on>
+        <sys_id>9194d0c493d102102dbcf1ccebba10c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 09:16:06</sys_updated_on>
+        <table>sc_cat_item_guide</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Expense Reports">dbffdbb3930102102dbcf1ccebba109b</application>
+        <file_path/>
+        <instance_id>f699c1621b223150c84543f4bd4bcb83</instance_id>
+        <instance_name>dev217321</instance_name>
+        <name>sc_cat_item_guide_0a84d80893d102102dbcf1ccebba1013</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide"><sc_cat_item_guide action="INSERT_OR_UPDATE"><access_type>restricted</access_type><active>true</active><availability>on_desktop</availability><billable>false</billable><cascade>false</cascade><category/><checked_out/><cost>0</cost><custom_cart/><delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan><delivery_plan_script/><delivery_time>1970-01-03 00:00:00</delivery_time><description/><display_price_property>non_zero</display_price_property><entitlement_script/><flow_designer_flow/><fulfillment_automation_level>unspecified</fulfillment_automation_level><group/><hide_sp>false</hide_sp><icon/><ignore_price>false</ignore_price><image/><include_items>true</include_items><location/><mandatory_attachment>false</mandatory_attachment><meta/><mobile_hide_price>false</mobile_hide_price><mobile_picture/><mobile_picture_type>use_desktop_picture</mobile_picture_type><model/><name>ggj</name><no_attachment_v2>false</no_attachment_v2><no_cart>false</no_cart><no_cart_v2>false</no_cart_v2><no_delivery_time_v2>false</no_delivery_time_v2><no_order>false</no_order><no_order_now>false</no_order_now><no_proceed_checkout>false</no_proceed_checkout><no_quantity>false</no_quantity><no_quantity_v2>false</no_quantity_v2><no_search>false</no_search><no_wishlist_v2>false</no_wishlist_v2><omit_price>false</omit_price><order>0</order><order_to_cart>false</order_to_cart><ordered_item_link/><owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner><picture/><preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_guide_view.do?v=1&amp;sysparm_initial=true&amp;sysparm_guide=0a84d80893d102102dbcf1ccebba1013&amp;sysparm_preview=true", "summary");</preview><price>0</price><published_ref/><recurring_frequency/><request_method/><roles/><sc_catalogs/><sc_ic_item_staging/><sc_ic_version/><sc_template/><script/><short_description/><show_variable_help_on_load>false</show_variable_help_on_load><start_closed>false</start_closed><state/><sys_class_name>sc_cat_item_guide</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-27 09:16:06</sys_created_on><sys_id>0a84d80893d102102dbcf1ccebba1013</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ggj</sys_name><sys_package display_value="Expense Reports" source="x_1329796_expense">dbffdbb3930102102dbcf1ccebba109b</sys_package><sys_policy/><sys_scope display_value="Expense Reports">dbffdbb3930102102dbcf1ccebba109b</sys_scope><sys_update_name>sc_cat_item_guide_0a84d80893d102102dbcf1ccebba1013</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-27 09:16:06</sys_updated_on><taxonomy_topic/><template/><template_manager_roles/><two_step>false</two_step><type>item</type><use_sc_layout>true</use_sc_layout><validator/><vendor/><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><workflow/></sc_cat_item_guide><sys_translated_text action="delete_multiple" query="documentkey=0a84d80893d102102dbcf1ccebba1013"/><fx_price action="delete_multiple" query="id=0a84d80893d102102dbcf1ccebba1013"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>price</field><id>0a84d80893d102102dbcf1ccebba1013</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-27 09:16:06</sys_created_on><sys_id>9194d0c493d102102dbcf1ccebba10c2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-27 09:16:06</sys_updated_on><table>sc_cat_item_guide</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>-507750818</payload_hash>
+        <record_name>ggj</record_name>
+        <reverted_from/>
+        <source>9bffdbb3930102102dbcf1ccebba109d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 09:16:06</sys_created_on>
+        <sys_id>e194d0c493d102102dbcf1ccebba10c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e7f31fdd90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 09:16:06</sys_updated_on>
+        <type>Order guide</type>
+        <update_guid>2994d0c4add1021075f4718d22d3b9c4</update_guid>
+        <update_guid_history>2994d0c4add1021075f4718d22d3b9c4:-507750818</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ggj">72a45c0893d102102dbcf1ccebba10a0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 09:16:27</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_guide">sc_cat_item_guide</sys_db_object>
+        <sys_id>24ae3ee3e587442690ab2e81000ec921</sys_id>
+        <sys_metadata>0a84d80893d102102dbcf1ccebba1013</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ggj</sys_name>
+        <sys_package display_value="Expense Reports" source="x_1329796_expense">dbffdbb3930102102dbcf1ccebba109b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Expense Reports">dbffdbb3930102102dbcf1ccebba109b</sys_scope>
+        <sys_scope_delete display_value="">002116c4baba45088eaeb30a6e085b90</sys_scope_delete>
+        <sys_update_name>sc_cat_item_guide_0a84d80893d102102dbcf1ccebba1013</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_guide_0a84d80893d102102dbcf1ccebba1013">e194d0c493d102102dbcf1ccebba10c5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 09:16:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
